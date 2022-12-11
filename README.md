@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h2 align="center">Profile</h2>
 </p>
 
-### 👋 Hola, soy Peter Torres(https://apurvshah007.github.io)
+### 👋 Hola, soy Peter Torres(https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211)
 
 <a href="https://www.linkedin.com/in/apurv-shah/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -41,31 +41,3 @@ Estudiante destacado de octavo ciclo de la especialidad de Economía en la PUCP,
 Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres 😄
 </div>
 
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-<br />
-<br />
-<br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-
-
-Leave a ⭐️ if you like this template and want to modify it for yourself!
