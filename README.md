@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **petertorres03/petertorres03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 Yo soy Peter Torres(https://apurvshah007.github.io)
+### 👋 Hola, soy Peter Torres(https://apurvshah007.github.io)
 
 <a href="https://www.linkedin.com/in/apurv-shah/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Estudiante destacado de octavo ciclo de la especialidad de Economía en la PUCP, con gran interés en el área financiera. Habilidades de pensamiento analítico y crítico, permitiendo desarrollar una contribución positiva. Orientado a resultados, facilidad para el trabajo en equipo y bajo entornos altamente dinámicos. Experiencia en  valoración de empresas y análisis financiero.
 
-Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres
+Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres 😄
 </div>
 
 <div><p>My profile overview: </p></div>
