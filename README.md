@@ -19,10 +19,9 @@ Here are some ideas to get you started:
  <h2 align="center">Profile</h2>
 </p>
 
-### 👋 Hola, soy Peter Torres(https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211)
+### 👋 Hola, soy Peter Torres ⚡
 
-<a href="https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211>
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 
 </a>
 <br />
