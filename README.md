@@ -34,4 +34,8 @@ Here are some ideas to get you started:
 
 🔭 Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres 😄
 </div>
+Contactos:
+
+Linkdn:https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211
+Twitter:@PeterTorresR
 
