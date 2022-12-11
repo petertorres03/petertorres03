@@ -21,14 +21,9 @@ Here are some ideas to get you started:
 
 ### 👋 Hola, soy Peter Torres(https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211)
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
+<a href="https://www.linkedin.com/in/peter-alonso-torres-fuentes-rivera-85a332211>
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+
 </a>
 <br />
 <br />
