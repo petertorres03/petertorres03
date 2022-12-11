@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <div>
  <p>
 
-Estudiante destacado de octavo ciclo de la especialidad de Economía en la PUCP, con gran interés en el área financiera. Habilidades de pensamiento analítico y crítico, permitiendo desarrollar una contribución positiva. Orientado a resultados, facilidad para el trabajo en equipo y bajo entornos altamente dinámicos. Experiencia en  valoración de empresas y análisis financiero.
+💬 Estudiante destacado de octavo ciclo de la especialidad de Economía en la PUCP, con gran interés en el área financiera. Habilidades de pensamiento analítico y crítico, permitiendo desarrollar una contribución positiva. Orientado a resultados, facilidad para el trabajo en equipo y bajo entornos altamente dinámicos. Experiencia en  valoración de empresas y análisis financiero.
 
-Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres 😄
+🔭 Me gusta mucho jugar futbol, leer y escribir en mis tiempos libres 😄
 </div>
 
